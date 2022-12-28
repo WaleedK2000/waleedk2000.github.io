@@ -7,7 +7,7 @@ tags: random
 categories: general 
 ---
 
-# HI!!!
+# My First Blog
 
 I have just finished setting up this website. Now i'm making my first blog. I used jekyll to built this website. Jekyll is a static website generator. [You can get jerkyll from here](https://jekyllrb.com/s). Just follow the steps on their website or watch this [amazing youtube video](https://www.youtube.com/watch?v=g6AJ9qPPoyc&ab_channel=SpencerPao) to get started.
 
