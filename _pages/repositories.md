@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Have a look at some of my most notable projects on github.
+description: Have a look at some of my most notable projects on github. my account is WaleedK2000
 nav: true
 nav_order: 3
 ---
