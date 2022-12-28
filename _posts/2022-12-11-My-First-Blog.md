@@ -7,9 +7,9 @@ tags: random
 categories: general 
 ---
 
-# My First Blog
+## Done with the setup
 
-I have just finished setting up this website. Now i'm making my first blog. I used jekyll to built this website. Jekyll is a static website generator. [You can get jerkyll from here](https://jekyllrb.com/s). Just follow the steps on their website or watch this [amazing youtube video](https://www.youtube.com/watch?v=g6AJ9qPPoyc&ab_channel=SpencerPao) to get started.
+I have just finished setting up this website. I feel very exhasted and learned a lot.. phew. Now i'm making my first blog. I used jekyll to built this website. Jekyll is a static website generator. [You can get jerkyll from here](https://jekyllrb.com/s). Just follow the steps on their website or watch this [amazing youtube video](https://www.youtube.com/watch?v=g6AJ9qPPoyc&ab_channel=SpencerPao) to get started.
 
 ### Tools used in this Website
 <ul>
