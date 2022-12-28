@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - WaleedK2000
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - WaleedK2000/WaleedK2000.github.io
+  - WaleedK2000/adaptive_ssort 
+  - WaleedK2000/captains_insight
+  - WaleedK2000/Mario_Assembly
+  - WaleedK2000/AES-128
+  - WaleedK2000/FitMe-Web-Application
+  - WaleedK2000/centralizedCitizenSystem

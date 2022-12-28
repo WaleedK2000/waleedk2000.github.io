@@ -71,7 +71,7 @@ github_username: WaleedK2000 # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
+linkedin_username: waleed-kayani # your LinkedIn user name
 telegram_username: # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
@@ -113,9 +113,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Waleeds Blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: Here i will write about various popular topics
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -126,8 +126,9 @@ pagination:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  repo: WaleedK2000/WaleedK2000.github.io
+      # <your-github-user-name>/<your-github-repo-name>
+  repo_id: 582740860
   category: Comments             # name of the category under which discussions will be created
   category_id: DIC_kwDOA5PmLc4CTBt6
   mapping: title                 # identify discussions by post title
@@ -139,7 +140,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: wal # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
