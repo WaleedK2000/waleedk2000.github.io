@@ -2,7 +2,7 @@
 layout: post
 title:  Ordering Banda KM-99 Keyboard From Daraz.pk
 date:   2022-12-25 13:40:16
-description: My  review of RGB Mechanical feeling banda Keyboard sold by funbug.pk on popular ecommerece platform daraz.pk. It also comes with a  mouse and free mouse pad by the seller. I recently needed to get a keyboard in the 2,000 PKR range. Here's my review after using this keyboard for a few days.
+description: My review of RGB Mechanical feeling banda Keyboard sold by funbug.pk on popular  daraz.pk. It also comes with a mouse and free mouse pad by the seller. 
 tags: reviews, technology
 categories: general 
 ---
