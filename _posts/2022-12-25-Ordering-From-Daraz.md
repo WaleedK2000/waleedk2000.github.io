@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  Ordering a Keyboard From Daraz.pk
+title:  Ordering Banda KM-99 Keyboard From Daraz.pk
 date:   2022-12-25 13:40:16
-description: My  review of RGB Mechanical feeling banda Keyboard sold by funbug.pk on popular ecommerece platform daraz.pk. It also comes with a  mouse and free mouse pad by the seller.  
+description: My  review of RGB Mechanical feeling banda Keyboard sold by funbug.pk on popular ecommerece platform daraz.pk. It also comes with a  mouse and free mouse pad by the seller. I recently needed to get a keyboard in the 2,000 PKR range. Here's my review after using this keyboard for a few days.
 tags: reviews, technology
 categories: general 
 ---
 
-I recently needed a new keyboard as I finally decided to use a desk to work on my laptop. I needed a good keyboard that was durable and also easy to use. So, as anyone in the 21st century would and searched the internet for my options. A leading online marketplace here in Pakistan is daraz.pk. They have a good reputation and have been around since 2012. [According to simiarweb, it is ranked as the #1 eCommerce platform in Pakistan](https://similarweb.com/top-websites/pakistan/category/e-commerce-and-shopping/)
+I recently needed a new keyboard as I finally decided to use a desk to work on my laptop. I needed a good keyboard that was durable and also easy to use. So, as anyone in the 21st century would and searched the internet for my options. A leading online marketplace here in Pakistan is daraz.pk. They have a good reputation and have been around since 2012. [According to simiarweb, it is ranked as the #1 eCommerce platform in Pakistan](https://similarweb.com/top-websites/pakistan/category/e-commerce-and-shopping/). 
 
-Something instantly caught my eye on "daraz.pk" was a product priced at PKR1,997. Its price was slightly higher than the rest of the products. However, this keyboard had the best reviews of them all. The reviews were overwhelmingly positive. It also had a lot of reviews compared to the other products listed. 
+Something instantly caught my eye on "daraz.pk" was a product priced at PKR1,997. Its price was slightly higher than the rest of the products. However, this keyboard had the best reviews of them all. The reviews were overwhelmingly positive. It also had a lot of reviews compared to the other products listed. [Here is the link to the Banda KM-99 keyboard i ordered from Daraz.pk](https://www.daraz.pk/products/i217655853-s1861008808.html?urlFlag=true&mp=1&spm=spm%3Da2a0e.order_details.item_title.1)
  
 ## Purchase Decision
 They listing not only offered a keyboard, but it also offered a mouse along with a free mouse pad. Furthermore, they keyboard had RGB lighting, which is useful in the dark and I think it looks cool. Another prominent feature of this keyboard is that it is spill resistant so it will be able to withstand any accidents. The product was advertised well and[there was even a video showing off the product]( https://www.youtube.com/watch?v=8KHLWmCyXxs&ab_channel=FunBug). 
 
 
-There is always doubt when buying products online, so I was still skeptical. However, I decided to continue due to the overwhelming positive. Because it was rated 4.6 / 5  by 1089 shoppers; 891  gave it 5 stars. Plus the seller, Funbug, also has a positive seller rating of 92%. These factors increased my confidence in the product and after much deliberation, I decided to order it.
+There is always doubt when buying products online, so I was still skeptical. However, I decided to continue due to the overwhelming positive. Because it was rated 4.6 / 5  by 1089 shoppers; 891  gave it 5 stars. Plus the seller, Funbug, also has a positive seller rating of 92%. These factors increased my confidence in the product and after much deliberation, I decided to order it. [You can check out its specifications on the product page by clicking here](https://www.daraz.pk/products/i217655853-s1861008808.html?urlFlag=true&mp=1&spm=spm%3Da2a0e.order_details.item_title.1)
 
 ## Ordering Process
 It stated i would get it on 25th December. Which was only 4 days of shipping time. I generally hate waiting a long time for somthing this is why a major reason why I aviod online shopping. The shipping was the responsibility of daraz as stated on the product page. Daraz has gotten so much better overtime and now have their delivery network all over country. Daraz showed their effienctecy by delivering the product a day earlier, on 24th Dec, then the promised date. "So far so smooth" i thought to myself as i signed for the package and the delivery drive drove off.
@@ -36,7 +36,7 @@ It stated i would get it on 25th December. Which was only 4 days of shipping tim
    
 </div>
 <div class="caption">
-    Once you open the box you are greeted by this thank you note. The box in which the keyboard and mouse are packed along with the back of the box are shown as well
+    Once you open the package you are greeted by a thank-you note. 
 
 </div>
 
