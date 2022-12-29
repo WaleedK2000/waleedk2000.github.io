@@ -23,15 +23,15 @@ It stated i would get it on 25th December. Which was only 4 days of shipping tim
 ## Unboxing
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/thank_you_note.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/thank_you_note.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Picture of the ThankYou note i got with the product" %}
     </div>
 
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/box_front.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/box_front.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Picture of the box from the back of the product" %}
     </div>
 
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/info_box_back.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/info_box_back.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Picture of the box from the back of the banda km 99" %}
     </div>
    
 </div>
@@ -53,11 +53,11 @@ The backlights work just as advertised. They are red on the left, green in the m
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/keyboard led bright.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/keyboard led bright.jpg" class="img-fluid rounded z-depth-1" zoomable=true class="img-fluid rounded z-depth-1" zoomable=true alt="Picture of Banda KM 99 With its LED Lights on during dark enviorment" %}
     </div>
 
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/keyboard led light 1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/keyboard led light 1.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Picture of Banda KM 99 With its LED Lights on during lit enviorment" %}
     </div>
 </div>
 
@@ -75,7 +75,7 @@ The mouse is a decent addition. The clicks feel well, and the scroll wheel feels
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/mouse.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/mouse.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Picture of mouse that we get in this bundle" %}
     </div>
 </div>
 
@@ -85,7 +85,7 @@ The mouse pad was a gift. Mine is orange; however, according to the product page
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/mousepad.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/mousepad.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="picture of the mouse pad that is given for free with this product" %}
     </div>
 </div>
 
