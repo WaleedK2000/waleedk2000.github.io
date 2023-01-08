@@ -95,7 +95,7 @@ The mouse pad was a gift. Mine is orange; however, according to the product page
 
 ## The cons
 
-This keyboard feels soo good; however, it is pertinent to note that it is still a membrane keyboard. I feel like the title on the product page can be a little misleading. The RGB lights only have an on-off function and can be toggled using the scroll lock button. Moreover, the QR Codes on the box doesn't work. One of them leads you to a spam page. So I would suggest you do not scan them. The mouse pad is sub-par, so I would not use it.
+This keyboard feels soo good; however, it is pertinent to note that it is still a membrane keyboard. I feel like the title on the product page can be a little misleading. The RGB lights only have an on-off function and can be toggled using the scroll lock button. Moreover, the QR Codes on the box doesn't work. One of them leads you to a spam page. So I would suggest you aviod scaning them. The mouse pad is sub-par, so I would just get another one.
 
 ## Conclusion
 
