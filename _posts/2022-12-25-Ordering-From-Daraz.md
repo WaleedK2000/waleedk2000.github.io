@@ -1,26 +1,28 @@
 ---
 layout: post
-title:  Ordering Banda KM-99 Keyboard From Daraz.pk
-date:   2022-12-25 13:40:16
-description: My review of RGB Mechanical feeling banda Keyboard sold by funbug.pk on popular  daraz.pk. It also comes with a mouse and free mouse pad by the seller. 
-tags: reviews, technology
-categories: general 
+title: Review of Banda KM-99 Keyboard
+date: 2022-12-25 13:40:16
+description: Looking for an in-depth review of the Banda KM 99 keyboard? Our review covers everything from build quality to key feel to lighting effects, helping you make an informed decision on whether the KM 99 is the right keyboard for you
+tags: reviews technology
+categories: general
 ---
 
-I recently needed a new keyboard as I finally decided to use a desk to work on my laptop. I needed a good keyboard that was durable and also easy to use. So, as anyone in the 21st century would and searched the internet for my options. A leading online marketplace here in Pakistan is daraz.pk. They have a good reputation and have been around since 2012. [According to simiarweb, it is ranked as the #1 eCommerce platform in Pakistan](https://similarweb.com/top-websites/pakistan/category/e-commerce-and-shopping/). 
+I recently needed a new keyboard as I finally decided to use a desk to work on my laptop. I needed a good keyboard that was durable and also easy to use. So, as anyone in the 21st century would and searched the internet for my options. A leading online marketplace here in Pakistan is daraz.pk. They have a good reputation and have been around since 2012. [According to simiarweb, it is ranked as the #1 eCommerce platform in Pakistan](https://similarweb.com/top-websites/pakistan/category/e-commerce-and-shopping/).
 
 Something instantly caught my eye on "daraz.pk" was a product priced at PKR1,997. Its price was slightly higher than the rest of the products. However, this keyboard had the best reviews of them all. The reviews were overwhelmingly positive. It also had a lot of reviews compared to the other products listed. [Here is the link to the Banda KM-99 keyboard i ordered from Daraz.pk](https://www.daraz.pk/products/i217655853-s1861008808.html?urlFlag=true&mp=1&spm=spm%3Da2a0e.order_details.item_title.1)
- 
+
 ## Purchase Decision
-They listing not only offered a keyboard, but it also offered a mouse along with a free mouse pad. Furthermore, they keyboard had RGB lighting, which is useful in the dark and I think it looks cool. Another prominent feature of this keyboard is that it is spill resistant so it will be able to withstand any accidents. The product was advertised well and[there was even a video showing off the product]( https://www.youtube.com/watch?v=8KHLWmCyXxs&ab_channel=FunBug). 
 
+They listing not only offered a keyboard, but it also offered a mouse along with a free mouse pad. Furthermore, they keyboard had RGB lighting, which is useful in the dark and I think it looks cool. Another prominent feature of this keyboard is that it is spill resistant so it will be able to withstand any accidents. The product was advertised well and[there was even a video showing off the product](https://www.youtube.com/watch?v=8KHLWmCyXxs&ab_channel=FunBug).
 
-There is always doubt when buying products online, so I was still skeptical. However, I decided to continue due to the overwhelming positive. Because it was rated 4.6 / 5  by 1089 shoppers; 891  gave it 5 stars. Plus the seller, Funbug, also has a positive seller rating of 92%. These factors increased my confidence in the product and after much deliberation, I decided to order it. You can check out its specifications on the product page by clicking here.
+There is always doubt when buying products online, so I was still skeptical. However, I decided to continue due to the overwhelming positive. Because it was rated 4.6 / 5 by 1089 shoppers; 891 gave it 5 stars. Plus the seller, Funbug, also has a positive seller rating of 92%. These factors increased my confidence in the product and after much deliberation, I decided to order it. You can check out its specifications on the product page by clicking here.
 
 ## Ordering Process
+
 It stated i would get it on 25th December. Which was only 4 days of shipping time. I generally hate waiting a long time for somthing this is why a major reason why I aviod online shopping. The shipping was the responsibility of daraz as stated on the product page. Daraz has gotten so much better overtime and now have their delivery network all over country. Daraz showed their effienctecy by delivering the product a day earlier, on 24th Dec, then the promised date. "So far so smooth" i thought to myself as i signed for the package and the delivery drive drove off.
 
 ## Unboxing
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/thank_you_note.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Picture of the ThankYou note i got with the product" %}
@@ -33,23 +35,24 @@ It stated i would get it on 25th December. Which was only 4 days of shipping tim
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/info_box_back.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Picture of the box from the back of the banda km 99" %}
     </div>
-   
+
 </div>
 <div class="caption">
-    Once you open the package you are greeted by a thank-you note. 
+    Once you open the package you are greeted by a thank-you note.
 
 </div>
 
-Overall, it was a pretty good unboxing experience. The package was packed neatly.  Upon opening the box, you are greeted with a thank you note which is a nice touch. Also, one thing I noticed is that the mouse on the box is not the same one we get. Regardless, I still liked the mouse Funbug gave with the keyboard.
+Overall, it was a pretty good unboxing experience. The package was packed neatly. Upon opening the box, you are greeted with a thank you note which is a nice touch. Also, one thing I noticed is that the mouse on the box is not the same one we get. Regardless, I still liked the mouse Funbug gave with the keyboard.
 
 ## Product Review
-The keyboard and mouse are simple to use. All you have to do is plug their USB ports into your pc and they should work right away. The keyboard has a nice feel to it. Pressing the keys feels nice to press and is soft but firm. Pulling on the keys they don’t come off easily and are sturdy. I have not experienced any lag nor did I feel that a key didn’t work. 
-### Highlights
 
+The keyboard and mouse are simple to use. All you have to do is plug their USB ports into your pc and they should work right away. The keyboard has a nice feel to it. Pressing the keys feels nice to press and is soft but firm. Pulling on the keys they don’t come off easily and are sturdy. I have not experienced any lag nor did I feel that a key didn’t work.
+
+### Highlights
 
 LED Backlight
 
-The backlights work just as advertised. They are red on the left, green in the middle, and blue on the right. They are turned on or off by pressing the scroll lock button. They only have an on or off function. It would have been nice to have a blinking and/or cycle option. One unusual thing is that the backlights are attached to the scroll lock feature. Sometimes some apps disable the scroll lock preventing you from using the backlight until you are on that application. 
+The backlights work just as advertised. They are red on the left, green in the middle, and blue on the right. They are turned on or off by pressing the scroll lock button. They only have an on or off function. It would have been nice to have a blinking and/or cycle option. One unusual thing is that the backlights are attached to the scroll lock feature. Sometimes some apps disable the scroll lock preventing you from using the backlight until you are on that application.
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
@@ -59,6 +62,7 @@ The backlights work just as advertised. They are red on the left, green in the m
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/blogs/2022-12-25-Ordering-From-Daraz/keyboard led light 1.jpg" class="img-fluid rounded z-depth-1" zoomable=true alt="Picture of Banda KM 99 With its LED Lights on during lit enviorment" %}
     </div>
+
 </div>
 
 <div class="caption">
@@ -81,7 +85,7 @@ The mouse is a decent addition. The clicks feel well, and the scroll wheel feels
 
 ### The Mouse Pad
 
-The mouse pad was a gift. Mine is orange; however, according to the product page, it could be different for you. The mouse works well on it, and the mouse feels nice. My conclusion on the mouse pad is that it's definitely usable but I would get a more premium one. 
+The mouse pad was a gift. Mine is orange; however, according to the product page, it could be different for you. The mouse works well on it, and the mouse feels nice. My conclusion on the mouse pad is that it's definitely usable but I would get a more premium one.
 
 <div class="row mt-3">
 <div class="col-sm mt-3 mt-md-0">
@@ -90,11 +94,9 @@ The mouse pad was a gift. Mine is orange; however, according to the product page
 </div>
 
 ## The cons
-This keyboard feels soo good; however, it is pertinent to note that it is still a membrane keyboard. I feel like the title on the product page can be a little misleading. The RGB lights only have an on-off function and can be toggled using the scroll lock button. Moreover, the QR Codes on the box doesn't work. One of them leads you to a spam page. So I would suggest you do not scan them. The mouse pad is sub-par, so I would not use it. 
+
+This keyboard feels soo good; however, it is pertinent to note that it is still a membrane keyboard. I feel like the title on the product page can be a little misleading. The RGB lights only have an on-off function and can be toggled using the scroll lock button. Moreover, the QR Codes on the box doesn't work. One of them leads you to a spam page. So I would suggest you do not scan them. The mouse pad is sub-par, so I would not use it.
 
 ## Conclusion
 
-The Banda KM-99 keyboard is a solid choice for the price. The mouse gifted along with it is also pretty decent. While I do not prefer the mouse-pad it will not prevent me from recommending this product. The keyboard looks beautiful, the key presses are soft, and there is minimal lag. I feel elated while typing on this keyboard and have no doubt that it will serve me well for years to come. 
-
-
-    
+The Banda KM-99 keyboard is a solid choice for the price. The mouse gifted along with it is also pretty decent. While I do not prefer the mouse-pad it will not prevent me from recommending this product. The keyboard looks beautiful, the key presses are soft, and there is minimal lag. I feel elated while typing on this keyboard and have no doubt that it will serve me well for years to come.
